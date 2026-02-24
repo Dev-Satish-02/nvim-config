@@ -1,0 +1,8 @@
+# Neovim cache
+.plugin/
+.undo/
+.swap/
+.backup/
+
+# Lazy runtime data (NOT config)
+~/.local/share/nvim
