@@ -15,4 +15,4 @@ vim.opt.rtp:prepend(lazypath)
 -- Initialize lazy.nvim with NO plugins
 require("lazy").setup("plugins")
 require("config.keybinds")
-
+require("config.options")
